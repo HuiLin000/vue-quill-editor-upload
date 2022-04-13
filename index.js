@@ -56,6 +56,7 @@ var quillRedefine = exports.quillRedefine = function quillRedefine(config) {
                     if (uploadConfig.size && fileInput.files[0].size >= uploadConfig.size * 1024) {
                         fileInput.value = '';
                         uploadConfig.error();
+                        
                         return;
                     }
                     // 创建formData
