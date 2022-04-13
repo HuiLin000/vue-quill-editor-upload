@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "vue-quill-editor-upload@1.1.0",
+      "F:\\iforce\\audi-task-admin"
+    ]
+  ],
+  "_from": "vue-quill-editor-upload@1.1.0",
+  "_id": "vue-quill-editor-upload@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-jj+IGE9IfkLJKnahhddWhrvvqa4=",
+  "_location": "/vue-quill-editor-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "vue-quill-editor-upload@1.1.0",
+    "name": "vue-quill-editor-upload",
+    "escapedName": "vue-quill-editor-upload",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-quill-editor-upload/-/vue-quill-editor-upload-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "F:\\iforce\\audi-task-admin",
+  "author": {
+    "name": "next-zhuo"
+  },
+  "bugs": {
+    "url": "https://github.com/NextBoy/vue-quill-editor-upload/issues"
+  },
+  "description": "a plugin for vue-quill-editor",
+  "homepage": "https://github.com/NextBoy/vue-quill-editor-upload#readme",
+  "keywords": [
+    "quill",
+    "upload",
+    "vue-quill-editor-upload"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "vue-quill-editor-upload",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextBoy/vue-quill-editor-upload.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.0"
+}
